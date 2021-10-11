@@ -4,7 +4,7 @@
 + Boot Loader : Open Core 7.3
 + UEFI Version : P4.40
 
-![Hackintosh](misc\Hackintosh.jpg)
+![Hackintosh](https://user-images.githubusercontent.com/92324644/136828898-e7c55572-3407-457e-92ac-9343d83c8e62.jpg)
 
 ## Specs
 
@@ -28,11 +28,9 @@ Load UEFI Defaults
 ## Explanation *Japanese
 
 HackintoshでDeskmini 310にmacOS Big Surをインストールします。
-
 macOSのインストーラーについては各自で入手してください。
 
 Translated by Google Translate
 
 Install MacOS Big Sur on Deskmini 310 with Hackintosh.
-
 Please obtain your own for the MacOS installer.
