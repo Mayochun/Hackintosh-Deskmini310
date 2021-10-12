@@ -21,6 +21,8 @@
 Load UEFI Defaults
 
 + Advanced
+    + CPU Configuration
+        + CPU C States Support: Disabled
     + Chipset Configuration
         + Onboard HD Audio: Enabled
         + Onboard HDMI HD Audio: Enabled
