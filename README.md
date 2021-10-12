@@ -25,7 +25,7 @@ Load UEFI Defaults
 + Security > Secure Boot: Disabled
 + BOOT > CSM: Disabled
 
-## Explanation *Japanese
+## Notes *Japanese
 
 HackintoshでDeskmini 310にmacOS Big Surをインストールします。
 macOSのインストーラーについては各自で入手してください。
