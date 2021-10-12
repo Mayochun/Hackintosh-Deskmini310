@@ -1,7 +1,7 @@
 # Hackintosh for Deskmini 310
 
 + OS : macOS Big Sur 11.6
-+ Boot Loader : Open Core 7.3
++ Boot Loader : Open Core v0.7.4
 + UEFI Version : P4.40
 
 ![Hackintosh](https://user-images.githubusercontent.com/92324644/136828898-e7c55572-3407-457e-92ac-9343d83c8e62.jpg)
@@ -39,9 +39,11 @@ Load UEFI Defaults
 
 HackintoshでDeskmini 310にmacOS Big Surをインストールします。
 macOSのインストーラーについては各自で入手してください。
+Windows 11と一緒に使う場合はSecure Bootを使い分けてください。
 
-Translated by Google Translate
+Translation by Google Translate
 
 Install MacOS Big Sur on Deskmini 310 with Hackintosh.
 Please obtain your own for the MacOS installer.
+Please switch Secure Boot if used with Windows 11.
 
