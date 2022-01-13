@@ -1,0 +1,5 @@
+i5 9400
+Intel UHD Graphics 630
+SSD WD BLUE SATA 500GB
+Intel Gigabit I219V
+Intel Dual Band Wireless AC 3168
