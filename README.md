@@ -26,7 +26,6 @@ Load UEFI Defaults
     + Chipset Configuration
         + Onboard HD Audio: Enabled
         + Onboard HDMI HD Audio: Enabled
-        + VT-d: Disabled
     + Super IO Configuration
         + Serial Port: Disabled
     + USB Configuration
