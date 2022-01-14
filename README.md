@@ -1,10 +1,10 @@
 # Hackintosh for Deskmini 310
 
-+ OS : macOS Big Sur 11.6
-+ Boot Loader : Open Core v0.7.4
++ OS : macOS Monterey 12.1
++ Boot Loader : Open Core v0.7.7
 + UEFI Version : P4.40
 
-![Hackintosh](https://user-images.githubusercontent.com/92324644/136828898-e7c55572-3407-457e-92ac-9343d83c8e62.jpg)
+![Skin](misc/Hackintosh.png)
 
 ## Configuration
 
@@ -26,7 +26,6 @@ Load UEFI Defaults
     + Chipset Configuration
         + Onboard HD Audio: Enabled
         + Onboard HDMI HD Audio: Enabled
-        + VT-d: Disabled
     + Super IO Configuration
         + Serial Port: Disabled
     + USB Configuration
