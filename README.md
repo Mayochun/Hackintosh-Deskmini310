@@ -38,13 +38,13 @@ Load UEFI Defaults
 
 ## Notes *Japanese
 
-HackintoshでDeskmini 310にmacOS Big Surをインストールします。
+HackintoshでDeskmini 310にmacOS Montereyをインストールします。
 macOSのインストーラーについては各自で入手してください。
 Windows 11と一緒に使う場合はSecure Bootを使い分けてください。
 
 Translation by Google Translate
 
-Install MacOS Big Sur on Deskmini 310 with Hackintosh.
+Install MacOS Monterey on Deskmini 310 with Hackintosh.
 Please obtain your own for the MacOS installer.
 Please switch Secure Boot if used with Windows 11.
 
