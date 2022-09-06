@@ -1,9 +1,0 @@
-Deskmini310
-
-CPU:        i5 9400
-iGPU:       Intel UHD Graphics 630
-SSD:        WD BLUE SATA 500GB
-EtherNet:   Intel Gigabit I219V
-WLAN:       Intel Dual Band Wireless AC 3168
-Chipset:    H310
-Audio:      Realtek ALC233
