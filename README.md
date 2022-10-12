@@ -1,7 +1,7 @@
 # Hackintosh for Deskmini 310
 
-+ OS : macOS Monterey 12.5.1
-+ Boot Loader : Open Core v0.8.4
++ OS : macOS Monterey 12.6
++ Boot Loader : Open Core v0.8.5
 + UEFI Version : P4.40
 
 ![Skin](misc/Hackintosh.png)
