@@ -1,7 +1,7 @@
 # Hackintosh for Deskmini 310
 
 + OS : macOS Monterey 12.6
-+ Boot Loader : Open Core v0.8.5
++ Boot Loader : Open Core v0.8.6
 + UEFI Version : P4.40
 
 ![Skin](misc/Hackintosh.png)
@@ -14,7 +14,8 @@
 | CPU            | Intel Core i5 9400               |
 | RAM            | DDR4 2400MHz 8Gx2 (16GB)         |
 | WLAN           | Intel Dual Band Wireless-AC 3168 |
-| SSD            | WD BLUE 3D NAND SATA SSD 500GB   |
+| SSD (Mac)      | WD BLUE 3D NAND SATA SSD 500GB   |
+| SSD2 (Windows) | WD BLUE 3D NAND NVMe SSD 500GB   |
 
 ## UEFI
 
