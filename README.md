@@ -38,6 +38,8 @@ Load UEFI Defaults
 HackintoshでDeskmini 310にmacOS Venturaをインストールします。
 macOSのインストーラーについては各自で入手してください。
 
+使用してるWiFi Kextはアルファ リリースを使用しています。実験的なものなので通常運用するのはお勧めしません。
+
 Translation by Google Translate
 
 Install MacOS Ventura on Deskmini 310 with Hackintosh.
