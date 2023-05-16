@@ -1,6 +1,6 @@
 # Hackintosh for Deskmini 310
 
-+ OS : macOS Ventura 13.2.1
++ OS : macOS Ventura 13.3.1
 + Boot Loader : Open Core v0.9.2
 + UEFI Version : P4.40
 
