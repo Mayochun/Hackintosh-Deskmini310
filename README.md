@@ -1,7 +1,7 @@
 # Hackintosh for Deskmini 310
 
 + OS : macOS Ventura 13.2.1
-+ Boot Loader : Open Core v0.8.9
++ Boot Loader : Open Core v0.9.2
 + UEFI Version : P4.40
 
 ![Skin](misc/Hackintosh.png)
@@ -24,28 +24,22 @@ Load UEFI Defaults
 + Advanced
     + CPU Configuration
         + CPU C States Support: Disabled
-    + Chipset Configuration
-        + Onboard HD Audio: Enabled
-        + Onboard HDMI HD Audio: Enabled
     + Super IO Configuration
         + Serial Port: Disabled
     + USB Configuration
         + XHCI Hand-off: Enabled
 + Security
     + Secure Boot: Disabled
-    + Intel Platform Trust Technology: Enabled
 + BOOT
     + CSM: Disabled
 
 ## Notes *Japanese
 
-HackintoshでDeskmini 310にmacOS Montereyをインストールします。
+HackintoshでDeskmini 310にmacOS Venturaをインストールします。
 macOSのインストーラーについては各自で入手してください。
-Windows 11と一緒に使う場合はSecure Bootを使い分けてください。
 
 Translation by Google Translate
 
-Install MacOS Monterey on Deskmini 310 with Hackintosh.
+Install MacOS Ventura on Deskmini 310 with Hackintosh.
 Please obtain your own for the MacOS installer.
-Please switch Secure Boot if used with Windows 11.
 
