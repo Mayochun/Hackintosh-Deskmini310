@@ -1,7 +1,7 @@
 # Hackintosh for Deskmini 310
 
-+ OS : macOS Ventura 13.3.1
-+ Boot Loader : Open Core v0.9.2
++ OS : macOS Ventura 13.4.1
++ Boot Loader : Open Core v0.9.3
 + UEFI Version : P4.40
 
 ![Skin](misc/Hackintosh.png)
@@ -37,8 +37,6 @@ Load UEFI Defaults
 
 HackintoshでDeskmini 310にmacOS Venturaをインストールします。
 macOSのインストーラーについては各自で入手してください。
-
-使用してるWiFi Kextはアルファ リリースを使用しています。実験的なものなので通常運用するのはお勧めしません。
 
 Translation by Google Translate
 
