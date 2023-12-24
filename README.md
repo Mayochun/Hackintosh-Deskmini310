@@ -22,24 +22,21 @@
 Load UEFI Defaults
 
 + Advanced
-    + CPU Configuration
-        + CPU C States Support: Disabled
-    + Super IO Configuration
-        + Serial Port: Disabled
     + USB Configuration
         + XHCI Hand-off: Enabled
 + Security
     + Secure Boot: Disabled
+    + Intel Platform Trust Technology: Enabled
 + BOOT
     + CSM: Disabled
 
 ## Notes *Japanese
 
 HackintoshでDeskmini 310にmacOS Venturaをインストールします。
-macOSのインストーラーについては各自で入手してください。
+SMBIOSについては各自で生成する必要があります。Windows11と切り替えて使う場合は、Secure BootとIntel TPPをUEFIで切り替えてください。
 
 Translation by Google Translate
 
 Install MacOS Ventura on Deskmini 310 with Hackintosh.
-Please obtain your own for the MacOS installer.
+For SMBIOS, you will need to generate your own; if you want to switch to Windows 11, please switch between Secure Boot and Intel TPP in the UEFI.
 
